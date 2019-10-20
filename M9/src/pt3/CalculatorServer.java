@@ -42,4 +42,10 @@ public class CalculatorServer implements RMICalcInterface{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+
+	@Override
+	public int pow(int a, int b) throws RemoteException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
